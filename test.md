@@ -9,6 +9,16 @@
 
 ![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
 
+
+```
+EPUB_Procedure_Manual_SampleFile																
+	├─template.xhtml	// xhtml ファイルテンプレート
+	├─template.opf		// opf ファイルテンプレート
+	│					
+	├─tools		// 制作手順で利用するツールを格納
+```
+
+
 ## 目次
 
 * [はじめに](#はじめに)
