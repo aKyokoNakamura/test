@@ -501,6 +501,12 @@
 [コンテンツ制作フローについて](#コンテンツ制作フロー) | Adobe Indesign, illustrator から Fixed Layout 型 EPUBコンテンツを制作する為のフローを示す。
 [Fixed Layout 型コンテンツ制作手順について](#Fixed Layout 型 EPUBコンテンツ制作手順) | コンテンツ制作フローに記載された各ステップの制作手順、並びに、修正箇所を示す。
 [Hybrid View 型コンテンツ制作手順について](#Hybrid View 型 EPUBコンテンツ制作手順) | コンテンツ制作フローに記載された各ステップの制作手順、並びに、修正箇所を示す。(Hybrid View 機能を有効にした場合)
+![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
+
+![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
+
+![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
+
 
 # 電子書籍コンテンツ制作手順書
 <div>Rev.2</div>
