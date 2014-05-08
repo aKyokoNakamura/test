@@ -3,6 +3,12 @@
 
 <div>2013/12/24</div>
 
+![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
+
+![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
+
+![テキスト + 画像のポップアップ](images/hybridview-05.jpg)
+
 ## 目次
 
 * [はじめに](#はじめに)
